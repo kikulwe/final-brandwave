@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861588690513",
+    "project_id": "brandwave-50bf2",
+    "storage_bucket": "brandwave-50bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861588690513:android:a03ae6c84b7aa140608a70",
+        "android_client_info": {
+          "package_name": "com.example.brandwave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861588690513-p531eoir0atl86qiflda31ob10vc3ckh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7bNdBfrq9Wv8VbL-rZiIqHdZl0ll_oz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861588690513-p531eoir0atl86qiflda31ob10vc3ckh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
